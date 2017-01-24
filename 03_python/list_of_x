@@ -1,0 +1,10 @@
+# List of x
+
+xmax = 4
+xmin = -4
+h = .5
+xvalues = []
+for x in range (int(xmax,xmin),h):
+	xvalues.append(x)
+print(xvalues)
+
